@@ -18,21 +18,17 @@ Explore the features and functionality in real time!
 
 
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="![pr1](https://github.com/user-attachments/assets/31167752-e106-4f39-82c3-e4427993f453)
-" 
-    width="400" alt="Blog Post Image 1" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/31167752-e106-4f39-82c3-e4427993f453" 
+       width="400" alt="Blog Post Image 1" style="margin-right: 10px;">
   
-  <img src="![pr2](https://github.com/user-attachments/assets/0de71124-f75b-468d-9c18-a397daea440f)
-" 
-    width="400" alt="Blog Post Image 2" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/0de71124-f75b-468d-9c18-a397daea440f" 
+       width="400" alt="Blog Post Image 2" style="margin-right: 10px;">
     
-  <img src="![pr3](https://github.com/user-attachments/assets/e0ccfcf7-070e-481a-bffb-1370bac5844f)
-" 
-    width="400" alt="Blog Post Image 3" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/e0ccfcf7-070e-481a-bffb-1370bac5844f" 
+       width="400" alt="Blog Post Image 3" style="margin-right: 10px;">
     
-  <img src="![pr4](https://github.com/user-attachments/assets/d7c72622-0041-4e96-8991-a0b77ff63a68)
-" 
-    width="400" alt="Blog Post Image 4">
+  <img src="https://github.com/user-attachments/assets/d7c72622-0041-4e96-8991-a0b77ff63a68" 
+       width="400" alt="Blog Post Image 4">
 </div>
 
 
