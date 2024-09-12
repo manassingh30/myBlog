@@ -16,19 +16,14 @@ Explore the features and functionality in real time!
 - **User Authentication** 🔒: Secure user authentication powered by Appwrite, allowing only authenticated users to create, update, and delete posts.
 - **Responsive Design** 📱: A clean and responsive design that works across all devices.
 
+
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap;">
-  <img src="![pr1](https://github.com/user-attachments/assets/0fa10186-7a0d-4fef-a9cc-1069d73f71fd)
-" width="400" alt="Blog Post Image 1" style="margin-right: 10px;">
-  <img src="![pr2](https://github.com/user-attachments/assets/45700f7e-2945-4394-a113-cf27896db8cc)
-
-" width="400" alt="Blog Post Image 2" style="margin-right: 10px;">
-  <img src="![pr3](https://github.com/user-attachments/assets/99b009d3-b560-406d-b277-1dcac82f42a6)
-
-" width="400" alt="Blog Post Image 3" style="margin-right: 10px;">
-  <img src="![pr4](https://github.com/user-attachments/assets/6617e905-71cb-40b1-ad04-460d56a0be54)
-
-" width="400" alt="Blog Post Image 4">
+  <img src="https:[pr1](https://github.com/user-attachments/assets/0fa10186-7a0d-4fef-a9cc-1069d73f71fd)" width="400" alt="Blog Post Image 1" style="margin-right: 10px;">
+  <img src="https:[pr2](https://github.com/user-attachments/assets/45700f7e-2945-4394-a113-cf27896db8cc)" width="400" alt="Blog Post Image 2" style="margin-right: 10px;">
+  <img src="https:[pr3](https://github.com/user-attachments/assets/99b009d3-b560-406d-b277-1dcac82f42a6)" width="400" alt="Blog Post Image 3" style="margin-right: 10px;">
+  <img src="https:[pr4](https://github.com/user-attachments/assets/6617e905-71cb-40b1-ad04-460d56a0be54)" width="400" alt="Blog Post Image 4">
 </div>
+
 
 ## Tech Stack ⚙️
 
